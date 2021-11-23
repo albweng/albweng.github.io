@@ -17,7 +17,8 @@ layout: home
 Albert Weng's UW Interdisciplinary Honors Portfolio
 </font>
 </div>
+<br>
 
-An amazing introduction to my portfolio woo yeah <br>
+An amazing introduction to my portfolio goes here. Pretend it exists. <br>
 
 My artifacts are both organized by chronological order right under here and also linked in each of the individual pages.
