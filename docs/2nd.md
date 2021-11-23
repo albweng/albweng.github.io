@@ -3,7 +3,10 @@ layout: page
 title: 2nd Year
 permalink: /2nd/
 ---
-Year 2021-2022
+2021-2022
+<br>
+
+Jump to:
 * TOC
 {:toc}
 
@@ -19,6 +22,7 @@ Insert a cool little image here of the leaves or something.
 - CSE 391
 - ACCTG 219
 - HONORS 100
+Total credits: guess
 
 ### Reflection
 After a year of Zoom University<sup>TM</sup>, my only goal coming into this quarter was to make new friends in person.
@@ -41,9 +45,9 @@ See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version
 <br>
 
 ### Artifacts
-- [Bomb](https://albweng.github.io/2nd/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed
+- [Bomb](https://albweng.github.io/2nd/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed.
 - [Dubhacks](https://albweng.github.io/2nd/2021/10/24/dubhacks21.html), a hackathon that I participated in and learned a lot from.
-- [idk](albweng.github.io)
+- [Finanical Statement Analysis Project](https://albweng.github.io/2nd/2021/11/7/finstatanal.html), an ACCTG 219 project that analyzed Tesla's financial reports.
 
 ## Winter Quarter
 some more scaffolding
