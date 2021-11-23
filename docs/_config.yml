@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UW Interdisciplinary Honors Portfolio
+title: Albert Weng
 email: aweng593@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   UW Interdisciplinary Honors Portfolio
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "albweng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  albweng
 
 # Build settings
