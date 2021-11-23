@@ -6,8 +6,11 @@ categories: sophomore
 ---
 
 ![bomb](/images/bomb2.jpg)
+<br>
 This was the a screenshot of the CSE 351 assignment, affectionately named Bomb, which has, as you can see, a very lovely interface. It was simultaneously the most fun and painful assignments I've ever had. It was a huge pain to decipher what the assembly code was trying to do, but also enjoyable in a way. 
+<br>
 ![Bomb notes](/images/bomb.jpg)
+<br>
 Here are my notes for the CSE 351 lab Bomb.[^1] This assignment greatly impacted how I thought about programming and the ways that it was done, since assembly was quite different in the way and paradigm than say Java or C++.
 
 [^1]: All of these notes are WRONG and heavily edited as to prevent academic dishonesty
