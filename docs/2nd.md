@@ -3,9 +3,20 @@ layout: page
 title: 2nd Year
 permalink: /2nd/
 ---
-
+Year 2021-2022
+<br>
 Insert a cool little image here of the leaves or something.
-### Autumn Quarter Reflection
+## Autumn Quarter
+
+### Courses
+- CSE 311
+- CSE 341
+- CSE 351
+- CSE 391
+- ACCTG 219
+- HONORS 100
+
+### Reflection
 After a year of Zoom University<sup>TM</sup>, my only goal coming into this quarter was to make new friends in person.
 <br>
 <br>
@@ -25,9 +36,13 @@ Now, this is the last paragraph, so here’s the moment where I reveal to everyo
 See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version with word count.
 <br>
 
-### Autumn Quarter Artifacts
+### Artifacts
 - [Bomb](https://albweng.github.io/2nd/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed
 - [Dubhacks](https://albweng.github.io/2nd/2021/10/24/dubhacks21.html), a hackathon that I participated in and learned a lot from.
+- [idk](albweng.github.io)
+
+## Winter Quarter
+some more scaffolding
 
 <br>
 <br>
