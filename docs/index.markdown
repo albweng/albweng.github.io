@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Home
 ---
-
-# ./begin
+<div align="center">
+hi
+</div>
 ## Albert Weng's UW Interdisciplinary Honors Portfolio
