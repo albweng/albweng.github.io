@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2nd Year
-permalink: /sophomore/
+permalink: /2nd/
 ---
 
 Insert a cool little image here of the leaves or something.
@@ -26,8 +26,8 @@ See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version
 <br>
 
 ### Autumn Quarter Artifacts
-- [Bomb](https://albweng.github.io/sophomore/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed
-- [Dubhacks](https://albweng.github.io/sophomore/2021/10/24/dubhacks21.html), a hackathon that I participated in and learned a lot from.
+- [Bomb](https://albweng.github.io/2nd/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed
+- [Dubhacks](https://albweng.github.io/2nd/2021/10/24/dubhacks21.html), a hackathon that I participated in and learned a lot from.
 
 <br>
 <br>

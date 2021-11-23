@@ -1,6 +1,6 @@
 ---
 layout: page
 title: 3rd Year
-permalink: /junior/
+permalink: /3rd/
 ---
 Coming soon!

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: 4th Year
-permalink: /senior/
+permalink: /4th/
 ---
 Coming Soon!
