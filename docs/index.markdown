@@ -5,7 +5,7 @@
 layout: page
 title: Home
 ---
-<div align="center">
+<div align="center", font size = "50">
 hi
 </div>
 ## Albert Weng's UW Interdisciplinary Honors Portfolio
