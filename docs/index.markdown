@@ -13,8 +13,8 @@ layout: home
   <img src="/images/challenge.jpg" />
 </p>
 <div align="center">
-<font size = "5">
-Albert Weng's UW Interdisciplinary Honors Portfolio
+<font size = "1">
+Albert Weng's UW Interdisciplinary Honors Portfolio (why is it not smaller)
 </font>
 </div>
 
