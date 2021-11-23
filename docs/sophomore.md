@@ -22,7 +22,8 @@ Now, this is the last paragraph, so here’s the moment where I reveal to everyo
 <br>
 <br>
 <br>
-See ![here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version with word count.
+See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version with word count.
+<br>
 
 ### Autumn Quarter Artifacts
 - [Bomb](https://albweng.github.io/sophomore/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed
