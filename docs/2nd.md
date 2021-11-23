@@ -4,8 +4,12 @@ title: 2nd Year
 permalink: /2nd/
 ---
 Year 2021-2022
+* TOC
+{:toc}
+
 <br>
 Insert a cool little image here of the leaves or something.
+
 ## Autumn Quarter
 
 ### Courses
