@@ -13,8 +13,11 @@ layout: home
   <img src="/images/challenge.jpg" />
 </p>
 <div align="center">
-<font size = "1">
-Albert Weng's UW Interdisciplinary Honors Portfolio (why is it not smaller)
+<font size = "15">
+Albert Weng's UW Interdisciplinary Honors Portfolio
 </font>
 </div>
 
+An amazing introduction to my portfolio woo yeah <br>
+
+My artifacts are both organized by chronological order right under here and also linked in each of the individual pages.
