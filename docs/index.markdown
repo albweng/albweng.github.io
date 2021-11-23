@@ -9,9 +9,11 @@ layout: home
 ./begin
 </font>
 </div> -->
-
+<p align="center">
+  <img src="/images/challenge.jpg" />
+</p>
 <div align="center">
-<font size = "15">
+<font size = "5">
 Albert Weng's UW Interdisciplinary Honors Portfolio
 </font>
 </div>
