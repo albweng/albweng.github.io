@@ -47,7 +47,7 @@ See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version
 ### Artifacts
 - [Bomb](https://albweng.github.io/2nd/2021/10/26/cse351-bomb.html), a CSE 351 lab assignment that I personally really enjoyed.
 - [Dubhacks](https://albweng.github.io/2nd/2021/10/24/dubhacks21.html), a hackathon that I participated in and learned a lot from.
-- [Finanical Statement Analysis Project](https://albweng.github.io/2nd/2021/11/7/finstatanal.html), an ACCTG 219 project that analyzed Tesla's financial reports.
+- [Finanical Statement Analysis Project](https://albweng.github.io/2nd/2021/11/07/finstatanal.html), an ACCTG 219 project that analyzed Tesla's financial reports.
 
 ## Winter Quarter
 some more scaffolding
