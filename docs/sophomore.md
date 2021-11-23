@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sophomore Year
+title: 2nd Year
 permalink: /sophomore/
 ---
 
