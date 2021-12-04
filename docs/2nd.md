@@ -23,7 +23,6 @@ Here's a stock image of red leaves because, you know, autumn.
 - CSE 391
 - ACCTG 219
 - HONORS 100
-<br>
 
 [//]: # (comment)
 
