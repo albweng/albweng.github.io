@@ -12,7 +12,7 @@ Jump to:
 
 <br>
 Here's a stock image of red leaves because, you know, autumn.
-<img src="images/21au.png"/>
+<img src="images/21au.jpg"/>
 
 ## Autumn Quarter
 
