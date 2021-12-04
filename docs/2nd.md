@@ -11,6 +11,7 @@ Jump to:
 {:toc}
 
 <br>
+Here's a stock image of red leaves because, you know, autumn.
 <img src="images/21au.png"/>
 
 ## Autumn Quarter
