@@ -11,7 +11,7 @@ Jump to:
 {:toc}
 
 <br>
-Insert a cool little image here of the leaves or something.
+<img src="images/21au.png"/>
 
 ## Autumn Quarter
 
