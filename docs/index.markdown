@@ -10,7 +10,7 @@ layout: home
 </font>
 </div> -->
 <p align="center">
-  <img src="/images/challenge.jpg" />
+  <a href="/exp/"><img src="/images/challenge.jpg"></a>
 </p>
 <div align="center">
 <font size = "15">
