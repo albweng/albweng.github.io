@@ -23,7 +23,9 @@ Here's a stock image of red leaves because, you know, autumn.
 - CSE 391
 - ACCTG 219
 - HONORS 100
-<br>Total credits: guess
+<br><br>
+[//]: # (comment)
+Total credits: guess
 
 ### Reflection
 After a year of Zoom University<sup>TM</sup>, my only goal coming into this quarter was to make new friends in person.
