@@ -11,10 +11,11 @@ Jump to:
 {:toc}
 
 <br>
-Here's a stock image of red leaves because, you know, autumn.
-<img src="/images/21au.jpg"/>
 
 ## Autumn Quarter
+
+Here's a stock image of red leaves because, you know, autumn.
+<img src="/images/21au.jpg"/>
 
 ### Courses
 - CSE 311
@@ -79,8 +80,8 @@ Finally, I also tried to reach out to more people and have fun, after realizing 
 <br>
 
 ### Artifacts
- - My first [interview](https://albweng.github.io/2nd/2022/03/15/interview.markdown), which didn't go too well but was an experience.
- - [Games and Mahjong](https://albweng.github.io/2nd/2022/03/17/bakeday.markdown), just me having fun with friends after finals.
+ - My first [interview](https://albweng.github.io/2nd/2022/03/15/interview.html), which didn't go too well but was an experience.
+ - [Games and Mahjong](https://albweng.github.io/2nd/2022/03/17/bakeday.html), just me having fun with friends after finals.
 
 <br>
 <br>
