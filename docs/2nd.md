@@ -61,6 +61,9 @@ See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version
 - CSE 332
 - ENTRE 300
 - HONORS 221
+
+[//]: # (comment)
+
 Total credits: 17
 
 ### Reflection
@@ -76,8 +79,8 @@ Finally, I also tried to reach out to more people and have fun, after realizing 
 <br>
 
 ### Artifacts
- - My first [interview](https://albweng.github.io/2nd/2022/3/15/interview.markdown), which didn't go too well but was an experience.
- - [Games and Mahjong](https://albweng.github.io/2nd/2022/3/17/bakeday.markdown), just me having fun with friends after finals.
+ - My first [interview](https://albweng.github.io/2nd/2022/03/15/interview.markdown), which didn't go too well but was an experience.
+ - [Games and Mahjong](https://albweng.github.io/2nd/2022/03/17/bakeday.markdown), just me having fun with friends after finals.
 
 <br>
 <br>
