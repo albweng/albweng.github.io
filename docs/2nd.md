@@ -51,7 +51,30 @@ See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version
 - [Finanical Statement Analysis Project](https://albweng.github.io/2nd/2021/11/07/finstatanal.html), an ACCTG 219 project that analyzed Tesla's financial reports.
 
 ## Winter Quarter
-some more scaffolding
+<img src="/images/cat.png"/>
+
+### Courses
+- CSE 312
+- CSE 332
+- ENTRE 300
+- HONORS 221
+Total credits: 17
+
+### Reflection
+This quarter went reasonably well. The two CS courses were extremely interesting, and with those done I am pretty much done with all the introductory CS coursework, which opens up most of the 400-level courses, which I'm pretty excited for. I'm planning to take CSE 421 next quarter, which is algorithms, something I am very interested in. ENTRE 300 was also fun, although it was mostly groupwork, and our group didn't really communicate as much as I liked. HONORS 221 turned out much better than I thought it would be; I was expecting a boring history course but it talked about the fall of the Roman Republic and was quite fascinating, especially when compared to current events.
+<br>
+<br>
+This quarter I also shifted my focus a lot more on the future and career goals. I applied to many internships and got an interview. I'm also figuring out the process of undergrad research and applying to labs as well as emailing professors. My sense of humor also slightly shifted this quarter, which meant I am now mostly embarrassed by what I wrote on my Autumn 2021 reflection, but it's fine. Doing things you think are cool at the time and looking back with both fondness and embarrassment is what college is all about, right? I also started watching anime. For those 0 people reading this, you all should watch 86 Eighty-Six, it's great. I like its focus on racism and the "saints", those who think they are supporting oppressed groups but are subconciously racist against them as well. There is also a great theme on life and death.
+<br>
+<br>
+Finally, I also tried to reach out to more people and have fun, after realizing that literally all of my artifacts last quarter were school-related. Between classes and after finals I would go meet with my friends and even play mahjong, which I had last played years ago with grandparents. I also developed a cru
+<br>
+<br>
+<br>
+
+### Artifacts
+ - My first [interview](https://albweng.github.io/2nd/2022/3/15/interview.markdown), which didn't go too well but was an experience.
+ - [Games and Mahjong](https://albweng.github.io/2nd/2022/3/17/bakeday.markdown), just me having fun with friends after finals.
 
 <br>
 <br>
