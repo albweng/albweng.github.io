@@ -60,7 +60,7 @@ See [here](https://albweng.github.io/files/au21reflection.pdf) for a pdf version
 ### Courses
 - CSE 312
 - CSE 332
-- ENTRE 300
+- ENTRE 370
 - HONORS 221
 
 [//]: # (comment)
@@ -74,7 +74,7 @@ This quarter went reasonably well. The two CS courses were extremely interesting
 This quarter I also shifted my focus a lot more on the future and career goals. I applied to many internships and got an interview. I'm also figuring out the process of undergrad research and applying to labs as well as emailing professors. My sense of humor also slightly shifted this quarter, which meant I am now mostly embarrassed by what I wrote on my Autumn 2021 reflection, but it's fine. Doing things you think are cool at the time and looking back with both fondness and embarrassment is what college is all about, right? I also started watching anime. For those 0 people reading this, you all should watch 86 Eighty-Six, it's great. I like its focus on racism and the "saints", those who think they are supporting oppressed groups but are subconciously racist against them as well. There is also a great theme on life and death.
 <br>
 <br>
-Finally, I also tried to reach out to more people and have fun, after realizing that literally all of my artifacts last quarter were school-related. Between classes and after finals I would go meet with my friends and even play mahjong, which I had last played years ago with grandparents. I also developed a cru
+Finally, I also tried to reach out to more people and have fun, after realizing that literally all of my artifacts last quarter were school-related. Between classes and after finals I would go meet with my friends and even play mahjong, which I had last played years ago with grandparents.
 <br>
 <br>
 <br>
