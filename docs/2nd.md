@@ -83,6 +83,36 @@ Finally, I also tried to reach out to more people and have fun, after realizing 
  - My first [interview](https://albweng.github.io/2nd/2022/03/16/interview.html), which didn't go too well but was an experience.
  - [Games and Mahjong](https://albweng.github.io/2nd/2022/03/17/bakeday.html), just me having fun with friends after finals.
 
+## Spring Quarter
+<img src="/images/cat.png"/>
+
+### Courses
+- CSE 333
+- CSE 344
+- CSE 421
+- ENTRE 432
+- CSE 492J
+
+[//]: # (comment)
+
+Total credits: 16
+
+### Reflection
+First, a new notes about last quarter. Some good news and some bad news. Bad news first because I flipped a coin and the heartless coin said so. It seems like I forgot to mention, but I unfortunately was not selected to go to study abroad in Switzerland next year, which was quite saddening. Now for the good news, I somehow did get the job for the interview I talked about, despite not doing well.
+
+Now for this quarter. It was fine. I unfortunately did not like the class ENTRE 432 (STEM Entrepreneurship) very much for various reasons, but all together I'm not going to complain; it wasn't a bad class at all. As for the CS classes I'm taking, my least favorite was probably 344, which is Intro to Data Management. The assignments were quite tedious and I didn't feel like I learned too much out of them. It was also strangely competitive, for a 300 level CS class. In a particular case, I did not do the extra credit for a homework assignment, feeling slightly burnt out and having finals coming up. Annoyingly enough, the median for the homework ended up higher than the max score. The other two CS courses were much more fun. CSE 333, Systems Programming, had pretty difficult but very well-made homeworks, and were quite rewarding after a bunch of debugging. The course content was also very interesting. CSE 421, Algorithms, was probably my favorite, although that mostly stems from the fact that I am interested in algorithms myself, and hope to do research in Theory CS.
+
+A non-academic thing that I was pretty involved in was Reddit's r/place event, where there is a giant shared canvas and every user could placed a colored pixel every 5 minutes. Online communities grouped together to create pixel art of their interests, and I participated as well, placing pixels and defending our art. 
+
+Looking into the future, I'm excited about the internship this summer, and I was also able to snag a spot in the national parks honors class, which I am really happy about. I also got accepted into ACMS this cycle, so I am excited to take some math courses as well.
+<br>
+<br>
+<br>
+
+### Artifacts
+- [333gle](https://albweng.github.io/2nd/2021/06/02/333gle.html), a CSE 333 assignment that is a culmination of all we learned in the quarter.
+- [Interview with Sreeram Kannan](https://albweng.github.io/2nd/2021/05/16/sreeram.html), an interview I did for an ENTRE 432 project.
+
 <br>
 <br>
 <br>
