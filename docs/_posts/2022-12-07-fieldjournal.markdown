@@ -5,25 +5,46 @@ date:   2022-12-07 17:00:00 -0800
 categories: 3rd
 ---
 
-![My Phone's attempt at taking pictures of stars](/images/stars.jpg)
-
-My field journal sucks, so I’m going to talk about anime instead. This anime is one I was watching a while ago. The name of it is 86 Eighty-Six, and it’s a pretty nice anime. You all should watch it. Anyways, so the general premise is that there’s this group of humans called the Eighty-Six, and they’re tasked with waging war against an army of autonomous robots called the Legion. The Legion used to belong to a neighboring country, but an internal revolution killed their leader and creator. So now, they don’t have a country to fight for but programmed to kill all enemies, they started going against all remaining human civilization, including the country that the Eighty-Six are from. And in this anime, there’s one really haunting scene, where the protagonists are hiding in a cave from the Legion, and they just watching as hundreds of these robots ominously march across the landscape in the distance going off to fight people. And this horrifying scene is exactly the first thing that came to my mind during the first night in Olympic when we watched the Starlink make its way across the sky. It was so unnerving, so unnatural, so out of place, to see what looked like stars in a perfectly straight line in nature, that it made me question, what exactly did Starlink take away? 
+I write a dissertation on why Elon Musk's Starlink reminds me of evil killing robots.
 
 ![Scene from 86 Eighty-Six](/images/86-1.png)
 ![Another scene](/images/86-2.png)
- 
-If you asked me that exactly 2 weeks before, I would probably say, well, nothing. I was freezing in my sleeping bag, completely unable to sleep. I turned to the only thing that I thought could offer solace – my phone. And I’d say freezing in a tent staring at your phone is probably the exact opposite of what people would consider “enjoying nature.” And in fact, the entire time leading up until then I sort of had impostor syndrome. Here I was, taking this class pretty much only because I thought it would be a lot nicer to go backpacking instead of to school. I didn’t care about what wilderness entailed or whatnot, I just wanted to go hiking. I didn’t deserve to be here with people who actually cared about these things. And then, both restless and bored, I made my way out of my tent, where what greeted me was a mesmerizing view. A beautiful moon, surrounded by a halo of light, as well as thousands of stars twinkling in the night sky. And, I know this sounds kind of dramatic, but looking back I realized why I took this class. I wanted to enjoy the view. I wanted anyone to enjoy the view, including those displaced from their lands, including those said to be unwelcome, and including those in the future who come after us.
 
-How the environment connects all these people is a recurring theme in my wilderness journal. I wrote about the night sky quite a few times. No matter how far away physically you are from someone, you are looking at the same moon, the same stars. No matter how far away in time you are from people here before you, or people who will come after you, you are looking at the same moon, the same stars. It was when that connection was destroyed by an unnerving array of machines marching across the sky did I realize how important this was to me. Just like any other part of nature, the night sky, too, is a resource. Not something to be extracted from, but to find yourself in. We talk about wilderness in this class a lot. What constitutes wilderness? Do we even have wilderness left, after all the irreversible things we have done to the land, the climate, and the people. My answer is yes, just look up. Vast amounts of space, beyond anyone’s comprehension, has been, so-called, untouched.
+<br>
+<br>
+
+I attempt to take pictures of the night sky with my phone. It does not work; perhaps my phone is too detached from nature to appreciate its beauty.
+
+![My Phone's attempt at taking pictures of stars](/images/stars.jpg)
+
+<br>
+<br>
+
+Image of my field journal, with an excerpt from one of the prompts I wrote about in Olympic National Park.
+
+![Field Journal](/images/fieldjournal.jpg)
+
+> There is a river flowing beside me, lazily making its way from the forst towards the vast ocean... I see rivers as a thread that connects; it connects the mountain with the sea, it connects the indigenous peoples' mountain activities with their seafaring activities... How important are rives to the said-to-be ocean-centered tribes, or the tribes that primarily live along the river? Do they see it as sacred?
+
+<br>
+<br>
+
+Final moment of happiness before the solemn procedure of sharing wilderness letters out loud with classmates and realizing nature needs a lot more help.
 
 ![Sharing Wilderness Letters out loud](/images/wildernessletter.jpg)
 
-While that’s great, it’s not enough. What about the land?  Can we rewild ecosystems we have destroyed? In my wilderness letter, I considered extraction of material resources as a process of distancing ourselves from nature and into our own world, and posed wilderness and rewilding as a continual process of putting resources back into nature not only to revert an area to its original ecosystem but also returning the land to its original owners. And like I said earlier, how land connects people is a recurring theme in my wilderness journal entries as well. I wrote about how a mountain like Mt. Rainier connects people, and what it means to people, when reflecting on our time talking with Jeff about Native Americans using Mt. Rainier for hunting, butchering, or trading. I wrote about the importance of rivers and streams as a connection to the ocean, when reflecting on our time talking with Dave about what undamming the Elwha culturally meant for the tribes. I wrote about indigenous ways of knowing and connected it to indigenous standpoint theory, when reflecting on the two-eyed seeing podcast we listened to. And from the first ever class activity, reading about how the national parks massacred these people and forced them out of their lands, Native Americans have always been at the center of my reflections.
+<br>
+<br>
 
-But for now, back to anime. It’s a good show, I’m telling you. So earlier, I said that the group of people called the 86 are tasked with waging war against an army of autonomous robots. That’s sort of a lie; they weren’t tasked to; they were forced to. Through worldbuilding that I don’t get into the details of, the country that they live in is deeply racist, with people with white hair controlling everything, and people with hair of other colors, which are the 86, seen as subhuman, and forced to die in war. A really interesting interaction between these two groups occurred when a white-haired person started spewing racist shit at the two main protagonists, one who had brown hair and was an 86 and the other who was his friend but had white hair but was one of the only nonracist people in the story. While the white-haired protagonist was really angry for her friend, the brown-haired one didn’t seem like he cared. When she asked him why he was so indifferent to being treated subhuman, he responded saying that with all the unreasonable treatment he had to put up with from them, he, too, started seeing the white-haired people as subhuman, but instead as monsters. And why should he care about the opinions of a monster? This interaction with both races not seeing each other as human is really interesting to me, and connecting back to topics I should be talking about, it’s not too difficult to imagine that the surviving Native Americans after all the massacres, broken promises, and ignored treaties, would see white people as monsters too.
+Screenshot of an image of a printout of a pdf of an Atlantic article, which was part of our first in-class activity.
 
-I really liked what our presenter in the Wing Luke Museum said about the National Park System. He said he was doing their dirty work, the work they’re trying to hide from the public. Not just the indigenous peoples, but the history of oppression in the US. And I think as a whole, coming out of this entire experience has truly given me a new view of national parks, the wilderness, conservation, and so much more. And don’t get me wrong, I still firmly believe the national parks are a good and important idea. Although they offload the dirty work to others, the work that they do do is still extremely important in terms of protecting wilderness and rewilding lands, in all senses of that term, in face of challenges. And equally as important, if not more, is that dirty work, telling the untold narratives of those oppressed.
+![Atlantic](/images/atlantic.jpg)
 
-So, what’s next? From a practical point of view, I’ll spread the word about what I learned this class or the class itself, pay more attention to events, and present opinions in NEPA processes. Or, said in a more poetic way, it’s time to open both eyes, and look above at the stars, into the night sky. Or look around at the land, into wilderness. Or look below at archeological sites, into history. Wherever you look, the national parks will stare ominously back at you.
+<br>
+<br>
 
-Ok, never mind, that is definitely much less poetic.
+Part of the Nippon Kan theater, now shown at the Wing Luke museum. This image was shamelessly stolen from Wikipedia.
+
+![Nippon Kan](/images/nipponkan.jpg)
+
+[Transcript of my Presentation](https://albweng.github.io/files/journal.docx)
