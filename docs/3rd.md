@@ -33,4 +33,4 @@ Total credits: 16
 New year, same me, new perspectives. This year my main goal is to get undergrad research. [Talk about cs/math classes and how they're related, how fun nat parks course was, and how I'm dying trying to decipher my students' homeworks.]
 
 ### Artifacts
-- [Field Journal Presentation](https://albweng.github.io/2nd/2021/10/26/cse351-bomb.html), a culminating final presentation describing all the wonderful experiences I had backpacking in and learning about the national parks.
+- [Field Journal Presentation](https://albweng.github.io/3rd/2022/12/08/fieldjournal.html), a culminating final presentation describing all the wonderful experiences I had backpacking in and learning about the national parks.

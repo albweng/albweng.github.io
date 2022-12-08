@@ -29,14 +29,14 @@ Image of my field journal, with an excerpt from one of the prompts I wrote about
 <br>
 <br>
 
-Final moment of happiness before the solemn procedure of sharing wilderness letters out loud with classmates and realizing nature needs a lot more help.
+Final moment of happiness before the solemn proceeding of sharing wilderness letters out loud with classmates and realizing nature needs a lot more help.
 
 ![Sharing Wilderness Letters out loud](/images/wildernessletter.jpg)
 
 <br>
 <br>
 
-Screenshot of an image of a printout of a pdf of an Atlantic article, which was part of our first in-class activity.
+A screenshot of an image of a printout of a pdf of an Atlantic article, which was part of our first in-class activity.
 
 ![Atlantic](/images/atlantic.jpg)
 
