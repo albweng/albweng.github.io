@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Albert Weng | ACO PhD Student at Georgia Tech</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Albert Weng</h1>
+    <img src="image.png" align="right" alt="Albert" style="width: min(12vw, 270px); margin: 0px 0px 0px min(1vw, 20px);">
+    <p>I am a first year PhD student in Computer Science at the Georgia Institute of Technology, in the <a href="https://aco.gatech.edu/">Algorithms, Combinatorics, and Optimization</a> program. I am fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~vdbrand/">Jan van den Brand.</a></p>
+    <p>Previously, I was an undergrad at the University of Washington and worked with <a href="https://homes.cs.washington.edu/~shayan/">Shayan Oveis Gharan.</a></p>
+    <p>My research interests lie broadly in optimizing over combinatorial objectives. I particularly like the analysis and applications of interior point methods.</p>
+    <!-- <p>Starting Fall 2025, I will be organizing the <a href="https://sites.google.com/view/aco-student-seminar-gatech/home">ACO Student Seminar.</a> Please reach out to me if you're interested in giving a talk!</p> -->
+    <p id="random-text"></p>
+    <script>
+        const sentences = [
+            " dealing into yakuman.",
+            " breaking my combo in rhythm games.",
+            " perfecting my burnt steak recipies.",
+            " meticulously planning my bike rides to occur on the rainiest day possible.",
+            "."
+        ];
+
+        document.getElementById("random-text").innerText = "Outside of research you might find me" + sentences[Math.floor(Math.random() * sentences.length)];
+    </script>
+    <h2 style="clear: both;">Recent/Selected Publications</h2>
+    <ul>
+        <li><em>Subquadratic Space Representation of Flows</em><!--[<a href="#">Arxiv</a>] [<a href="#">Slides</a>]--><br>Jan van den Brand, Zhao Song, Albert Weng<br><i>In Submission</i></li>
+    </ul>
+    <h2>Contact</h2>
+    You can find me at albweng@gatech.edu.
+</body>
+</html>

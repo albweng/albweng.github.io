@@ -1,0 +1,53 @@
+body {
+    font-family: "Montserrat", "Arial", sans-serif;
+    max-width: min(40vw, 920px);
+    margin: auto;
+    color: #2A132F
+}
+h1 {
+    font-family: "Roboto Slab", serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+a {
+    color: #a96de8;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.container img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+.left {
+    width: 68%;
+}
+.right {
+    width: 28%;
+}
+.theory-talks a {
+    color: red;
+}
+.faculty {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.courses, .eprints {
+    margin-top: 20px;
+}
+.logo {
+    display: block;
+    margin-bottom: 20px;
+    max-width: 200px;
+}
