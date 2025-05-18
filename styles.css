@@ -1,6 +1,27 @@
+:root {
+  --responsive-width: 920px;
+}
+
+@media (max-width: 2299px) and (min-width: 1350px) {
+  :root {
+    --responsive-width: 40vw;
+  }
+}
+
+@media (max-width: 1349px) and (min-width: 600px) {
+  :root {
+    --responsive-width: 540px;
+  }
+}
+
+@media (max-width: 599px) {
+  :root {
+    --responsive-width: 90vw;
+  }
+}
 body {
     font-family: "Montserrat", "Arial", sans-serif;
-    max-width: min(40vw, 920px);
+    max-width: var(--responsive-width);
     margin: auto;
     color: #2A132F
 }
@@ -19,35 +40,4 @@ a {
 }
 a:hover {
     text-decoration: underline;
-}
-.container {
-    display: flex;
-    justify-content: space-between;
-}
-.container img {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    display: block;
-}
-.left {
-    width: 68%;
-}
-.right {
-    width: 28%;
-}
-.theory-talks a {
-    color: red;
-}
-.faculty {
-    margin-top: 20px;
-    font-weight: bold;
-}
-.courses, .eprints {
-    margin-top: 20px;
-}
-.logo {
-    display: block;
-    margin-bottom: 20px;
-    max-width: 200px;
 }
