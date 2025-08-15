@@ -11,28 +11,63 @@
 </head>
 <body>
     <h1>Albert Weng</h1>
-    <img src="image.png" align="right" alt="Albert" style="width: calc(var(--responsive-width) * 0.3); margin: 0px 0px 0px calc(var(--responsive-width) * 0.025);">
-    <p>I am a first year PhD student in Computer Science at the Georgia Institute of Technology, in the <a href="https://aco.gatech.edu/">Algorithms, Combinatorics, and Optimization</a> program. I am fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~vdbrand/">Jan van den Brand.</a></p>
+    <img src="IMG-20250808-WA0003_crop.jpg" align="right" alt="Image of Albert" style="width: calc(var(--responsive-width) * 0.3); margin: 0px 0px 0px calc(var(--responsive-width) * 0.025);">
+    <p>I am a second year PhD student in Computer Science at the Georgia Institute of Technology, in the <a href="https://aco.gatech.edu/">Algorithms, Combinatorics, and Optimization</a> program. I am fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~vdbrand/">Jan van den Brand.</a></p>
     <p>Previously, I was an undergrad at the University of Washington and worked with <a href="https://homes.cs.washington.edu/~shayan/">Shayan Oveis Gharan.</a></p>
-    <p>My research interests lie broadly in optimizing over combinatorial objectives. I particularly like the analysis and applications of interior point methods.</p>
-    <!-- <p>Starting Fall 2025, I will be organizing the <a href="https://sites.google.com/view/aco-student-seminar-gatech/home">ACO Student Seminar.</a> Please reach out to me if you're interested in giving a talk!</p> -->
+    <p>My research interests lie broadly in convex optimization, combinatorial optimization, and theoretical computer science. I particularly like the analysis of interior point methods.</p>
     <p id="random-text"></p>
     <script>
         const sentences = [
             " dealing into yakuman.",
             " breaking my combo in rhythm games.",
-            " perfecting my burnt steak recipies.",
+            " at my piano, playing some of Chopin's latest hits.",
             " meticulously planning my bike rides to occur on the rainiest day possible.",
             "."
         ];
 
-        document.getElementById("random-text").innerText = "Outside of research you might find me" + sentences[Math.floor(Math.random() * sentences.length)];
+        // vibe coded
+        const REFRESH_LIMIT = 10;       // Number of consecutive refreshes to trigger
+        const TIME_WINDOW_MS = 5000;    // Max time between refreshes (5 seconds)
+
+        // Get stored count and last visit time
+        let refreshCount = parseInt(localStorage.getItem('refreshCount') || '0', 10);
+        let lastVisit    = parseInt(localStorage.getItem('lastVisit') || '0', 10);
+        let now = Date.now();
+
+        // Check if last visit was within 5 seconds
+        if (now - lastVisit <= TIME_WINDOW_MS) {
+            refreshCount++;
+        } else {
+            refreshCount = 1; // Reset count if too much time passed
+        }
+
+        // Save the updated count and timestamp
+        localStorage.setItem('refreshCount', refreshCount);
+        localStorage.setItem('lastVisit', now);
+
+        // Show alternate text if limit reached
+        if (refreshCount >= REFRESH_LIMIT) {
+            document.getElementById("random-text").innerHTML = `Outside of research I might find you. <span style="font-size:0.7em;">You have clicked refresh 10 times each within 5 seconds! Thank you for your interest in my antics.</span>`;
+
+        } else {
+            document.getElementById("random-text").innerText = "Outside of research you might find me" + sentences[Math.floor(Math.random() * sentences.length)];
+        }
+      
     </script>
-    <h2 style="clear: both;">Recent/Selected Publications</h2>
+    <h2>Recent/Selected Publications</h2>
     <ul>
-        <li><em>Subquadratic Space Representation of Flows</em><!--[<a href="#">Arxiv</a>] [<a href="#">Slides</a>]--><br>Jan van den Brand, Zhao Song, Albert Weng<br><i>In Submission</i></li>
+        <li><em>Computing Flows in Subquadratic Space</em><!--[<a href="#">Arxiv</a>] [<a href="#">Slides</a>]--><br>Jan van den Brand, Zhao Song, Albert Weng<br><i>In Submission</i></li>
+    </ul>
+    <h2>Teaching</h2>
+    <ul>
+        <li>TA for Algorithms at GT [Fall 2025]</li>
+        <li>TA for Algorithms at UW [Fall 2022-Spring 2024] (head TA in final 2 terms)</li>
+    </ul>
+    <h2>Other</h2>
+    <ul>
+        <li>Reviewer for: JACM, SOSA26</li>
     </ul>
     <h2>Contact</h2>
-    You can find me at albweng@gatech.edu.
+    You can reach me at albweng@gatech.edu.
 </body>
 </html>
