@@ -14,7 +14,7 @@
     <img src="IMG-20250808-WA0003_crop.jpg" align="right" alt="Image of Albert" style="width: calc(var(--responsive-width) * 0.3); margin: 0px 0px 0px calc(var(--responsive-width) * 0.025);">
     <p>I am a second year PhD student in Computer Science at the Georgia Institute of Technology, in the <a href="https://aco.gatech.edu/">Algorithms, Combinatorics, and Optimization</a> program. I am fortunate to be advised by <a href="https://faculty.cc.gatech.edu/~vdbrand/">Jan van den Brand.</a></p>
     <p>Previously, I was an undergrad at the University of Washington and worked with <a href="https://homes.cs.washington.edu/~shayan/">Shayan Oveis Gharan.</a></p>
-    <p>My research interests lie broadly in convex optimization, combinatorial optimization, and theoretical computer science. I particularly like the analysis of interior point methods.</p>
+    <p>My research interests lie broadly in convex optimization, combinatorial optimization, and theoretical computer science. I am especially interested in the analysis of interior point methods.</p>
     <p>I help organize the <a href="https://sites.google.com/view/aco-student-seminar-gatech/home">ACO Student Seminar</a>. Please feel free to reach out if you are interested in giving a talk!</p>
     <p id="random-text"></p>
     <script>
@@ -23,6 +23,7 @@
             " breaking my combo in rhythm games.",
             " at my piano, playing some of Chopin's latest hits.",
             " meticulously planning my bike rides to occur on the rainiest day possible.",
+            " trying to figure out what the word \"combinatorial\" means.",
             "."
         ];
 
@@ -48,7 +49,7 @@
 
         // Show alternate text if limit reached
         if (refreshCount >= REFRESH_LIMIT) {
-            document.getElementById("random-text").innerHTML = `Outside of research I might find you. <span style="font-size:0.7em;">You have clicked refresh 10 times each within 5 seconds! Thank you for your interest in my antics.</span>`;
+            document.getElementById("random-text").innerHTML = `Outside of research I might find you. <span style="font-size:0.7em;">You have clicked refresh 10 times in a row! Thank you for your interest in my antics.</span>`;
 
         } else {
             document.getElementById("random-text").innerText = "Outside of research you might find me" + sentences[Math.floor(Math.random() * sentences.length)];
